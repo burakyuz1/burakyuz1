@@ -16,7 +16,6 @@ My name is **Burak**, I graduated from Computer Education and Instructional Tech
 
 📫 How to reach me: 
 - [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/burakyuzz/)
-- [<img src="https://img.shields.io/github/followers/burakyuz1?style=social"/>](https://github.com/LeandraOS) 
 
 
 
