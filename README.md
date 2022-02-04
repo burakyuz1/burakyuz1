@@ -5,7 +5,7 @@
 
 
 
-My name is **Burak**, I graduated from Computer Education and Instructional Technologies(CEIT) Department. I joined the BilgeAdam Academy Boost Program to develop myself as a backend developer.
+It's Burak, open to learning and improving myself.
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
